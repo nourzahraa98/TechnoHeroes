@@ -1,0 +1,33 @@
+.product
+{
+    background-color:  #FFD54F;
+    margin-top: 10px;
+}
+.container
+{
+    margin:10px;
+}
+
+.txt
+{
+    background-color: burlywood;
+}
+
+.test
+{
+    background-color: bisque;
+    height: 2000px;
+}
+
+.sticky {
+  position: fixed;
+ top: 0;
+  width: 100%;
+}
+
+body
+{
+    padding-top:70px;
+
+    
+}
